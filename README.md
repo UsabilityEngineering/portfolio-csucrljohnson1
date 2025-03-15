@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Journal 1](journal/)
+[Journal 1](journals/)
