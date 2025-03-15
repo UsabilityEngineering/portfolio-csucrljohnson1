@@ -1,6 +1,6 @@
-#My First Experiences Using Adobe Photoshop
+# My First Experiences Using Adobe Photoshop
 
-##By Riley Johnson
+## By Riley Johnson
 
 The first time I booted up Photoshop was shortly after I learned that apart of my college tuition allowed me to apply for access to the adobe suite. I was intrigued as I had always heard of this nice tool for photo editing, but had never explored it myself as I knew it was tied behind a monthly subscription that was pretty costly. As such I had little to no **mental model** ( A type of mental visual preconception of what the object is like and how it should act) of what the tool was actually like other than what I had imagined it was like This tool was used by professionals all over and I had finally been given access to explore it’s potential. After applying and receiving access permissions I booted up the application and was met with the home screen where you can create and view all of your projects. 
 ![ProjectsList](JournalPics/ProjectsList.png)
